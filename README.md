@@ -1,3 +1,5 @@
+![ParkVision AI banner](docs/images/parkvision-banner.png)
+
 # ParkVision AI
 
 **Smart Parking Management & Analytics System**
