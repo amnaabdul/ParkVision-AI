@@ -4,6 +4,8 @@
 
 **Smart Parking Management & Analytics System**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat) [![CI](https://img.shields.io/github/actions/workflow/status/amnaabdul/ParkVision-AI/ci.yml?branch=main&style=flat&label=CI)](https://github.com/amnaabdul/ParkVision-AI/actions/workflows/ci.yml) [![MIT License](https://img.shields.io/badge/License-MIT-22A699?style=flat)](LICENSE.md)
+
 ParkVision AI integrates an existing computer-vision occupancy pipeline with a
 management dashboard, persistent history, observation-based analytics, and
 operational alerts using FastAPI, SQLite, and React/Vite. The team's implemented
