@@ -13,6 +13,7 @@ without a claim of original authorship.
 
 - Amna Jabarin
 - Mohammad Ziyadat
+- Fihmi Sbeih
 
 ## 1. Introduction
 

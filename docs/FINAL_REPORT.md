@@ -2,7 +2,7 @@
 
 **Final Project Report**
 
-**Team Members** - Amna Jabarin - Mohammad Ziyadat
+**Team Members** - Amna Jabarin - Mohammad Ziyadat - Fihmi Sbeih
 
 ## Abstract
 
@@ -348,4 +348,4 @@ licensing notices remain in the repository's license files.
 ------------------------------------------------------------------------
 
 **Project:** ParkVision AI\
-**Team:** Amna Jabarin and Mohammad Ziyadat
+**Team:** Amna Jabarin, Mohammad Ziyadat, and Fihmi Sbeih
