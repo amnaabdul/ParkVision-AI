@@ -345,7 +345,7 @@ delivery with explicit incident semantics.
 
 ## Project contribution scope
 
-Amna Jabarin and Mohammad Ziyadat implemented the ParkVision AI management
+Amna Jabarin, Mohammad Ziyadat, and Fihmi Sbeih implemented the ParkVision AI management
 experience, observation history, analytics, operational alerts and settings,
 recorded-event presentation, and related API, testing, usability, and documentation
 extensions. The system integrates existing edge detection, layout, persistence,
