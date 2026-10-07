@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# ML artifacts and logs
+runs/
+artifacts/
+logs/
+log/
+log-*/
+*.pt
+*.onnx
+*.csv
+*.jsonl
+downloads/
+*.db
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# Editors / agents
+.idea/
+.vscode/
+.claude/
+
+datasets/*
+patch_detect.py
+
+# Model weights are published as GitHub Release assets, not committed.
+# Fetch them with `make fetch-weights` (see scripts/fetch_weights.sh).
+acpds_cls/weights/
+
+!artifacts/layout_sample/
+!artifacts/layout_sample/bev_map.png
+!artifacts/layout_sample/layout.json
+
+!datasets/acpds_stage2/validation_samples/
+!datasets/acpds_stage2/validation_samples/**
+!datasets/acpds_stage2/validation_report.json
+!datasets/acpds_stage2/map_sample.json
+
+.cursor
+.codegraph

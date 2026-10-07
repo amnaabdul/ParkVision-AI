@@ -1,0 +1,7 @@
+path: /Users/thebkht/Projects/smart-parking-system/datasets/stage1_data
+train: train/images
+val: val/images
+test: test/images
+nc: 1
+names:
+- space
